@@ -1,0 +1,2 @@
+This is a test File- Learning R Programmin thru coursera.
+To create a folder in Github while creating the file type foldername/filename
